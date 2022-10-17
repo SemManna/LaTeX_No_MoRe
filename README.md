@@ -1,9 +1,8 @@
 # LaTeX_No_MoRe
+Grad School is largely about signalling. A nicely formatted LaTeX document displays knowledge of the norms and culture which carachterize Academia, alongside the peculiar rituals well-known by insiders. Professors are aware of this and, knowlingly or not, at the margins a nicely formatted submission (for, say, a problem set) may help your score by projecting authority, confromity, and commitment. 
 
-Academia an Grad School are largely about signalling. A nicely formatted LaTeX document displays knowledge of the norms and culture of the game, alongside the rituals which characterize its culture. Professors are aware of this and, knowlingly or not, at the margins a nicely formatted submission (for, say, a problem set) may help your score by projecting authority and confromity. 
-
-While you should learn how to type and format on LaTeX, your time is often constrained and may sometimes be allocated elsewhere.
-For this reason, in this repository I collected fonts and instructions to allow you to make quasi-undistinguishable LaTeX outputs using a word template. 
+While you should learn how to type and format on LaTeX, your time is often constrained and may sometimes be better allocated elsewhere.
+For this reason, in this repository I collected fonts and instructions to allow you to make quasi-undistinguishable LaTeX outputs using a Word template. 
 
 
 To install TTF and/or OTF in Windows:
