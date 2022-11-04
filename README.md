@@ -12,3 +12,6 @@ To install TTF and/or OTF in Mac OS:
 https://support.apple.com/en-us/HT201749
 
 Best of luck!
+
+
+coming soon: pptx template for beemer-looking slides!
