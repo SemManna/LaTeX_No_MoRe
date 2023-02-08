@@ -14,4 +14,4 @@ https://support.apple.com/en-us/HT201749
 Best of luck!
 
 
-coming soon: pptx template for beemer-looking slides!
+coming soon: pptx template for beamer-looking slides!
