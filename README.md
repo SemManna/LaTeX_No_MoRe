@@ -14,4 +14,4 @@ https://support.apple.com/en-us/HT201749
 Best of luck!
 
 
-coming soon: pptx template for beamer-looking slides!
+August 2023 update: new pptx template for beamer-looking slides! Please note that PowerPoint does not handle equations well. If you want your equation fonts in LM Roman you might need to manually change font frequently, which may result in mistakes. To add new slides, I suggest you to duplicate existing ones rather than using the "add slide" button.  
